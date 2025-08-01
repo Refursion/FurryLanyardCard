@@ -20,12 +20,15 @@ This is a furry-themed mechanical neck badge that combines furry elements with m
 ## 制作步骤 (Production Steps)
 1. **3D 打印所有零部件** (3D Print All Components)  
    使用 3D 打印机打印第二张图中所示的所有模型文件。
+    Use a 3D printer to print all the model files shown in the second image.
 
 2. **安装磁铁** (Install Magnets)  
    将磁铁放入圆柱体槽中，确保极性正确以保证磁吸功能正常。
-
+    Insert the magnets into the cylindrical slots, ensuring correct polarity for proper magnetic functionality.
 3. **拼装固定** (Assembly and Fixing)  
    按照爆炸图的关系进行拼装，包括印刷件和亚克力板，使用胶水固定（注意请勿粘接滑轨，以保证护目镜正常滑动）。如选用了 NFC 贴纸，可刷写好内容后粘贴到带有兽爪 logo 卡片的背面。
+    Assemble according to the explosive view, including the printed card and acrylic sheet. Secure with strong glue (note: do not glue the slide rails to ensure proper movement of the goggles). If using an NFC sticker, program it first and attach it to the back of the card with the claw logo.
 
 4. **安装挂扣** (Install Fastener)  
    在顶部安装登山扣或挂绳，制作完成！
+   Attach the carabiner or lanyard to the top, and your badge is complete!
