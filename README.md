@@ -1,5 +1,5 @@
 # Furry 主题机械兽牌 README
-
+MakerWorld Link: https://makerworld.com/zh/models/1659485-ci-xi-ke-dong-shou-pai-furry-lanyard-card#profileId-1755279
 ## 简介 (Introduction)
 这是一款融合了 furry 元素与机械结构的挂脖牌（兽牌）。它带有耳朵、爪子装饰等 furry 元素，采用了可活动的护目镜设计 —— 当你拨动护目镜顺着导轨 "戴上" 时，下侧会伸出一个带有兽爪符号的卡盘。卡盘可内置 NFC 功能实现快速加好友（可选）。所有模型均针对 3D 打印进行了优化。
 
@@ -19,8 +19,8 @@ This is a furry-themed mechanical neck badge that combines furry elements with m
 
 ## 制作步骤 (Production Steps)
 1. **3D 打印所有零部件** (3D Print All Components)  
-   使用 3D 打印机打印第二张图中所示的所有模型文件。
-    Use a 3D printer to print all the model files shown in the second image.
+   加载模型，做出个性化修改（或者使用我MakerWorld的预设配置），使用 3D 打印机打印所有模型文件。
+    Load models and make customized edition (or use my default setting in MakerWorld). Use a 3D printer to print all the model files.
 
 2. **安装磁铁** (Install Magnets)  
    将磁铁放入圆柱体槽中，确保极性正确以保证磁吸功能正常。
